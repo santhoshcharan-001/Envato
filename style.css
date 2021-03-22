@@ -356,7 +356,7 @@ nav .four span{
 }
 .footer .last a{
     /* margin-top: 30px; */
-    width:fit-content;
+    width:fit-content !important;
     display: block;
     padding-bottom: 5px;
     transition: 0.6s;
